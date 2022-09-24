@@ -3,7 +3,7 @@ import os, random, bcrypt, json, datetime, time
 
 #If you are thinking of using this in an actual project, do not
 #leave it unencrypted, unhashed or leave the file unobfuscated
-
+#Use the function start_auth to start authentication in other files.
 
 
 
