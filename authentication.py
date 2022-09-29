@@ -121,7 +121,7 @@ def main():
         -------------------------
              Authentication     
         -------------------------
-        made by kaiserwastaken @
+        made by      Kaiser    @
         github.com/kaiserwastaken
         -------------------------
         "L" : login
