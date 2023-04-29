@@ -10,4 +10,3 @@ This is a python script that you can add to your projects which adds a simple us
 Install Dependencies and run Program.
 (Tested on Linux and Windows -VM- with python 3.10.7)
 
-https://www.youtube.com/watch?v=YbrkzabxIjY
